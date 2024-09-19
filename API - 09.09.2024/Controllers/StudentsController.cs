@@ -63,5 +63,15 @@ namespace API___09._09._2024.Controllers
 
             return Ok(std);
         }
+
+        [HttpDelete("{id}")]
+        public IActionResult Delete([FromRoute] int id)
+        {
+            var std = _students.Find(x => x.Id == id);
+
+            _students.Remove(std);
+
+            return NoContent();
+        }
     }
 }

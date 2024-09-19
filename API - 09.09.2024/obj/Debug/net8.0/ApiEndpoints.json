@@ -17,6 +17,22 @@
   },
   {
     "ContainingType": "API___09._09._2024.Controllers.StudentsController",
+    "Method": "Delete",
+    "RelativePath": "api/Students/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API___09._09._2024.Controllers.StudentsController",
     "Method": "GetAll",
     "RelativePath": "api/Students/GetAll",
     "HttpMethod": "GET",

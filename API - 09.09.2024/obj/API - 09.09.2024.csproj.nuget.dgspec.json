@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abbascb\\Desktop\\API - 09.09.2024\\API - 09.09.2024.csproj": {}
+    "C:\\Users\\abbascb\\Desktop\\API---09.09.2024\\API - 09.09.2024\\API - 09.09.2024.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abbascb\\Desktop\\API - 09.09.2024\\API - 09.09.2024.csproj": {
+    "C:\\Users\\abbascb\\Desktop\\API---09.09.2024\\API - 09.09.2024\\API - 09.09.2024.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abbascb\\Desktop\\API - 09.09.2024\\API - 09.09.2024.csproj",
+        "projectUniqueName": "C:\\Users\\abbascb\\Desktop\\API---09.09.2024\\API - 09.09.2024\\API - 09.09.2024.csproj",
         "projectName": "API - 09.09.2024",
-        "projectPath": "C:\\Users\\abbascb\\Desktop\\API - 09.09.2024\\API - 09.09.2024.csproj",
+        "projectPath": "C:\\Users\\abbascb\\Desktop\\API---09.09.2024\\API - 09.09.2024\\API - 09.09.2024.csproj",
         "packagesPath": "C:\\Users\\abbascb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abbascb\\Desktop\\API - 09.09.2024\\obj\\",
+        "outputPath": "C:\\Users\\abbascb\\Desktop\\API---09.09.2024\\API - 09.09.2024\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abbascb\\AppData\\Roaming\\NuGet\\NuGet.Config",
